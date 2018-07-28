@@ -10,7 +10,7 @@
 * Bryan Perozzi (Google)
 * Peng Cui (Tsinghua University)
 * Wenwu Zhu (Tsinghua University)
-* Jian Pei (SFU)
+* Jian Pei (Simon Fraser University)
 * Tanya Berger-Wolf (University of Illinois at Chicago)
 
 
