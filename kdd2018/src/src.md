@@ -31,6 +31,6 @@ Nowadays, larger and larger, more and more sophisticated networks are used in mo
 In this tutorial, we will review the recent thoughts and achievements on network embedding. More specifically, a series of fundamental
 problems in network embedding will be discussed, including why we need to revisit network representation, what are the fundamental problems of network embedding, how network embedding can be learned, and the latest progress and trend of network embedding.
 
-###Slides
+##Slides
 
 Coming soon
