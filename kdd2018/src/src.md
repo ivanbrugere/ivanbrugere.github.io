@@ -2,7 +2,7 @@
 
 ## KDD 2018 Tutorial
 
-###ICC Capital Suite Room 11 (Level 3), 1:00 PM - 5:00 PM
+###Sunday, August 19. ICC Capital Suite Room 11 (Level 3), 1:00 PM - 5:00 PM
 
 ### Instructors:
 
