@@ -77,7 +77,7 @@ __University of Minnesota__ Computer Science B.S., Cultural Studies B.A.
 ### Tutorials
 
 `2019`
-Fairness in Machine Learning – A Hands-On Tutorial
+Fairness in Machine Learning – A Hands-On Tutorial    
 I. Brugere, A. Karpatne (_ACM Tapia Conference_)
 
 `2018`
@@ -123,7 +123,6 @@ Social Information Improves Location Prediction in the Wild
 J. Li, I. Brugere, B. Ziebart, T. Y. Berger-Wolf, M. Crofoot, D. Farine (_AAAI Workshop on Trajectory-based Behaviour Analytics_)
 
 `2014`
-
 Modeling and Analysis of Spatiotemporal Social Networks    
 I. Brugere, V. M.V. Gunturi, and S. Shekhar (_Encyclopedia of Social Network Analysis and Mining_)
 
@@ -155,7 +154,7 @@ A. Garg, V. Mithal, Y. Chamber, I. Brugere, V. Chaudhari, M. Dunham, V. Krishna,
 * Interdisciplinary research   
 
 * Spatiotemporal statistics and mining   
- 
+
 * Computational biology
 
 ## Service
@@ -168,7 +167,6 @@ AAAI, CIKM, ICDM, KDD, SDM
 KDD
 
 ### Reviewer
-
 AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM   (_Conference_)    
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
@@ -214,7 +212,6 @@ Tapia Celebration of Diversity in Computing, Travel Award
 SIGKDD Broadening Participation in Data Mining Travel Award     
 
 ## Notable Courses and Teaching
-
 Teaching Assistant: CS401 – Computer Algorithms I    
 Advanced Computational Biology and Bioinformatics Seminar    
 Advanced Data Mining Seminar     
