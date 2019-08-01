@@ -149,10 +149,10 @@ A. Garg, V. Mithal, Y. Chamber, I. Brugere, V. Chaudhari, M. Dunham, V. Krishna,
 
 * Graph mining and algorithms
 * Graph neural networks
-* Spatiotemporal statistics and mining 
 * Nonparametric statistical methods
-* Bioinformatics
 * Interdisciplinary research
+* Spatiotemporal statistics and mining 
+* Computational biology
 
 ## Service
 
