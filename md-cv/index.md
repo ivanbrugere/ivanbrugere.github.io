@@ -12,7 +12,6 @@ Research Scientist - AI For Good
 </div>
 
 ## Current Objective
-
 I am currently seeking machine learning research scientist positions in industry, available in January 2020.   
     
 <br />
