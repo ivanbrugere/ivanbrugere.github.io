@@ -146,11 +146,16 @@ A. Garg, V. Mithal, Y. Chamber, I. Brugere, V. Chaudhari, M. Dunham, V. Krishna,
 
 ## Areas of expertise
 
-* Graph mining and algorithms
-* Graph neural networks
-* Nonparametric statistical methods
-* Interdisciplinary research
-* Spatiotemporal statistics and mining 
+* Graph mining and algorithms   
+
+* Graph neural networks   
+
+* Nonparametric statistical methods   
+
+* Interdisciplinary research   
+
+* Spatiotemporal statistics and mining   
+ 
 * Computational biology
 
 ## Service
