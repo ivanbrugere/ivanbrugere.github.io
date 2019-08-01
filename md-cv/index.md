@@ -13,10 +13,10 @@ Research Scientist - AI For Good
 
 ## Current Objective
 
-I am currently seeking applied research scientist positions in industry, available in January 2020.   
+I am currently seeking machine learning research scientist positions in industry, available in January 2020.   
     
 <br />
-I focus on machine learning research and applications for social good. My current reasearch focuses on explainability and fairness, especially in complex domains such as graphs. I am also interested in model reduction for on-device and other low-resource environments. My PhD research focused on data science methodologies for inferring and validating graphs constructed from underlying data, with applications in interdisciplinary computational ecology, privacy and human mobile networks, and large-scale recommendation and search.
+I focus on machine learning research and applications for social good. My current reasearch focuses on explainability and fairness, especially in complex domains such as graphs. I am also interested in model reduction for on-device and other low-resource environments. My PhD research focused on data science methodologies for inferring and validating graphs constructed from underlying data, with applications in interdisciplinary computational ecology, mobile location privacy, and large-scale multimedia recommendation.
 
 ## Employment
 `Jan. 2019-`
@@ -169,7 +169,7 @@ AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM   (_Conference_)
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
 ### Community
-Bloomberg Data For Good Exchange PC
+Bloomberg Data For Good Exchange PC   
 Google Lime campus ambassador   
 University of Washington-AccessSTEM volunteer   
 KDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
