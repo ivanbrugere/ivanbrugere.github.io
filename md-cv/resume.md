@@ -11,11 +11,11 @@ Research Scientist - AI For Good
 <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
 </div>
 ## Current Objective
-I am currently seeking AI research scientist positions in industry, available May 2020.   
+I am currently seeking AI research scientist positions in industry, with start-date in May 2020, with no hard location constraints.  
 <br />
-I am an AI Research Scientist focusing on high-impact applications for social good. I have a deep interest in sustainability and earth science, computational social sciences, and graphs/networks. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD research focused on data science methodologies for inferring and validating graphs constructed from underlying data, with applications in interdisciplinary computational ecology, mobile location privacy, and large-scale multimedia recommendation.
-
-## Employment
+I am an AI Research Scientist focusing on high-impact applications for social good. I have a deep interest in graphs/networks, in sustainability and computational social science applications. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD research focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in computational ecology, mobile location privacy, and large-scale multimedia recommendation.
+ 
+## Experience
 `Jan. 2019-`
 __Salesforce Research__ Research Scientist - AI For Good   
 Working with several Salesforce non-profit customers and external collaborators. Focused on projects relating to fairness and bias, particularly in structured environments such as graphs/networks.
@@ -37,7 +37,7 @@ __University of Illinois at Chicago__ Research Fellow (_Mentor: Prof. Venkat Ven
 Graph-based models for attribute inference and privacy preservation on real mobile device datasets. 
 
 `Summer 2013`
-__Technicolor Research__ Research Intern (_Mentor: Brian Eriksson_)   
+__Technicolor Research__ Research Intern (_Mentor: Fernando Silveira_)   
 Rule discovery for biometric sensor time series data for actionable analysis of film audiences. Developed methods to discover and visualize dynamic audience communities. 
 
 `2012-2017`
@@ -53,6 +53,8 @@ __University of Minnesota__ Web Applications Developer (Department of Computer S
 
 `2002-2003`
 __University of Minnesota__ Web Applications Developer (College of Liberal Arts)   
+
+
 ## Education
 
 `2012-2020`
@@ -67,25 +69,7 @@ Thesis: Approximate Search on Massive Spatiotemporal Datasets.
 __The New School__ International Affairs M.A. 
 
 `2002-2007`
-__University of Minnesota__ Computer Science B.S., Cultural Studies B.A.
-
-## Organizing
-### Tutorials
-
-`2018`
-Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers   
-I. Brugere, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (_KDD 2018_)
-
-### Workshops
-
-`2019`
-PhD Forum (_IEEE ICDM'19_)
-
-`2017`
-NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SDM'17_)
-
-`2016`
-Inferring Networks from Non-Network Data (_SIAM AM'16_)
+__University of Minnesota__ Computer Science B.S., Cultural Studies and Comparative Literature B.A.
 
 ## Publications
 `2020`
@@ -150,6 +134,23 @@ A. Garg, V. Mithal, Y. Chamber, I. Brugere, V. Chaudhari, M. Dunham, V. Krishna,
  -->
 ## Service
 
+### Tutorials
+
+`2018`
+Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers   
+I. Brugere, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (_KDD 2018_)
+
+### Workshops
+
+`2019`
+PhD Forum (_IEEE ICDM'19_)
+
+`2017`
+NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SDM'17_)
+
+`2016`
+Inferring Networks from Non-Network Data (_SIAM AM'16_)
+
 ### Program Committees
 `2020`
 AAAI, KDD
@@ -165,20 +166,26 @@ AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM   (_Conference_)
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
 ### Community
-Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br />
+ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br />
 Bloomberg Data For Good Exchange Program Committee   
 Google Lime campus ambassador   
 University of Washington-AccessSTEM volunteer   
-KDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
+ACM SIGKDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
+
+### Teaching and Notable Courses
+Teaching Assistant: Computer Algorithms I (Senior-level)   
+Advanced Computational Biology and Bioinformatics Seminar    
+Advanced Data Mining Seminar     
+Field Course in Computational Ecology at Mpala Research Centre, Kenya
 
 ## Scholarships and Awards
 
 ### Scholarships
 `2014-2016` 
-IGERT Electronic Security and Privacy Fellowship
+NSF IGERT Electronic Security and Privacy Fellowship
 
 `2014-2016`
-UIC Chancellor’s Graduate Research Fellowship
+University of Illinois at Chicago, Chancellor’s Graduate Research Fellowship
 
 `2014`
 Google Lime Scholarship
@@ -189,28 +196,21 @@ IEEE ICDM Travel Award
 SIAM SDM Travel Award   
 
 `2016`
-Tapia Celebration of Diversity in Computing, Travel Award    
-SIGKDD Broadening Participation in Data Mining Travel Award     
-WSDM Travel Award
+ACM Tapia Celebration of Diversity in Computing, Travel Award    
+ACM SIGKDD Broadening Participation in Data Mining Travel Award     
+ACM WSDM Travel Award
 
 `2015`
-ICDM Travel Award     
-Ubicomp Broadening Participation Travel Award     
-SIGKDD Ram Kumar Memorial Travel Award     
-Fifty for the Future Award supported by the Illinois Technology Foundation     
-SIAM CSE Travel Award supported by the Sustainable Horizons Institute     
+IEEE ICDM Travel Award     
+ACM Ubicomp Broadening Participation Travel Award     
+ACM SIGKDD Ram Kumar Memorial Travel Award         
+SIAM CSE Travel Award supported by the Sustainable Horizons Institute
+Fifty for the Future Award supported by the Illinois Technology Foundation      
 
 `2014`
-ACM-BCB Travel Award     
-SIGKDD Broadening Participation in Data Mining Travel Award    
-Tapia Celebration of Diversity in Computing, Travel Award      
-SIGKDD Broadening Participation in Data Mining Travel Award     
-
-## Notable Courses and Teaching
-Teaching Assistant: CS401 – Computer Algorithms I    
-Advanced Computational Biology and Bioinformatics Seminar    
-Advanced Data Mining Seminar     
-Field Course in Computational Ecology at Mpala Research Centre, Kenya
+ACM BCB Travel Award     
+ACM SIGKDD Broadening Participation in Data Mining Travel Award    
+ACM Tapia Celebration of Diversity in Computing, Travel Award          
 
 ## Links
 * <i class="fa fa-envelope"></i> <a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a><br />
