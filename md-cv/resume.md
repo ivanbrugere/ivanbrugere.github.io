@@ -10,17 +10,15 @@ Research Scientist - AI For Good
 |
 <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
 </div>
-
 ## Current Objective
-I am currently seeking machine learning research scientist positions in industry, available in January 2020.   
-    
+I am currently seeking AI research scientist positions in industry, available May 2020.   
 <br />
-I focus on machine learning research and applications for social good. My current reasearch focuses on explainability and fairness, especially in complex domains such as graphs. I am also interested in model reduction for on-device and other low-resource environments. My PhD research focused on data science methodologies for inferring and validating graphs constructed from underlying data, with applications in interdisciplinary computational ecology, mobile location privacy, and large-scale multimedia recommendation.
+I am an AI Research Scientist focusing on high-impact applications for social good. I have a deep interest in sustainability and earth science, computational social sciences, and graphs/networks. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD research focused on data science methodologies for inferring and validating graphs constructed from underlying data, with applications in interdisciplinary computational ecology, mobile location privacy, and large-scale multimedia recommendation.
 
 ## Employment
 `Jan. 2019-`
 __Salesforce Research__ Research Scientist - AI For Good   
-Developing novel AI research and deployed services for Salesforce not-for-profit customers. 
+Working with several Salesforce non-profit customers and external collaborators. Focused on projects relating to fairness and bias, particularly in structured environments such as graphs/networks.
 
 `Summer 2018`
 __Amazon__ Applied Scientist Intern (_Mentor: Alex Smola_)   
@@ -55,10 +53,9 @@ __University of Minnesota__ Web Applications Developer (Department of Computer S
 
 `2002-2003`
 __University of Minnesota__ Web Applications Developer (College of Liberal Arts)   
-
 ## Education
 
-`2012-`
+`2012-2020`
 __University of Illinois at Chicago__ Computer Science PhD (_Advisor: Prof. Tanya Berger-Wolf_)    
 Thesis: Network Structure Inference: Methodology and Applications.
 
@@ -73,12 +70,7 @@ __The New School__ International Affairs M.A.
 __University of Minnesota__ Computer Science B.S., Cultural Studies B.A.
 
 ## Organizing
-
 ### Tutorials
-
-`2019`
-Fairness in Machine Learning – A Hands-On Tutorial    
-I. Brugere, A. Karpatne (_ACM Tapia Conference_)
 
 `2018`
 Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers   
@@ -96,6 +88,10 @@ NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SD
 Inferring Networks from Non-Network Data (_SIAM AM'16_)
 
 ## Publications
+`2020`
+CEGE: Constrained Equitable Graph Editing via Reinforcement Learning (_in submission_)
+
+Privacy Shadow: Measuring Node Predictability and Privacy Over Time (_in submission_)
 
 `2018`
 Network Structure Inference, A Survey: Motivations, Methods, and Applications   
@@ -143,23 +139,21 @@ Y. Chamber, A. Garg, V. Mithal, I. Brugere, M. Lau, V. Krishna, S. Boriah, M. St
 GOPHER: Global Observation of Planetary Health and Ecosystem Resources    
 A. Garg, V. Mithal, Y. Chamber, I. Brugere, V. Chaudhari, M. Dunham, V. Krishna, S. Krishnamurthy, S. Vangala, S. Boriah, M. Steinbach, V. Kumar, A. Cho, JD Stanley, T. Abraham, J. C. Castilla-Rubio, C. Potter, and S.A. Klooster (_IEEE Geoscience and Remote Sensing Symposium IGARSS_)
 
-## Areas of expertise
+<!-- ## Areas of expertise
 
-* Graph mining and algorithms   
-
+* Graph mining   
 * Graph neural networks   
-
-* Nonparametric statistical methods   
-
+* Nonparametric statistics   
 * Interdisciplinary research   
-
-* Spatiotemporal statistics and mining   
-
+* Spatiotemporal mining   
 * Computational biology
-
+ -->
 ## Service
 
 ### Program Committees
+`2020`
+AAAI, KDD
+
 `2019`
 AAAI, CIKM, ICDM, KDD, SDM
 
@@ -218,14 +212,8 @@ Advanced Data Mining Seminar
 Field Course in Computational Ecology at Mpala Research Centre, Kenya
 
 ## Links
-
-<!-- fa are fontawesome, ai are academicons -->
 * <i class="fa fa-envelope"></i> <a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/ivanbrugere/">LinkedIn</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=JGlGUcsAAAAJ">Google scholar</a>
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-8913-1733">ORCiD</a>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
