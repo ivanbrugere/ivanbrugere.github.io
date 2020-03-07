@@ -165,7 +165,8 @@ AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM   (_Conference_)
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
 ### Community
-Bloomberg Data For Good Exchange PC   
+Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br />
+Bloomberg Data For Good Exchange Program Committee   
 Google Lime campus ambassador   
 University of Washington-AccessSTEM volunteer   
 KDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
