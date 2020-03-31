@@ -153,7 +153,7 @@ Inferring Networks from Non-Network Data (_SIAM AM'16_)
 
 ### Program Committees
 `2020`
-AAAI, KDD
+AAAI, KDD, SDM
 
 `2019`
 AAAI, CIKM, ICDM, KDD, SDM
