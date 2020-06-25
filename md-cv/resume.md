@@ -13,7 +13,7 @@ Research Scientist - AI For Good
 ## Current Objective
 I am currently seeking AI research scientist positions in industry, with start-date in June 2020, with no hard location constraints.  
 <br />
-I am an AI Research Scientist focusing on high-impact applications for social good. I have a deep interest in graphs/networks, in computational social science applications. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in computational ecology, mobile location privacy, and large-scale multimedia recommendation.
+I am an AI Research Scientist focusing on high-impact applications for social good. I have a deep interest in graphs/networks in computational social science applications. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in computational ecology, mobile location privacy, and large-scale multimedia recommendation.
  
 ## Experience
 `2019-2020`
