@@ -13,13 +13,12 @@ Research Scientist - AI For Good
 ## Current Objective
 I am currently seeking AI research scientist positions in industry, available immediately, with no hard location constraints.  
 
-
-I am an AI Research Scientist focusing on high-impact applications for social good. I have a deep interest in graphs/networks in computational social science applications. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in computational ecology, mobile location privacy, and large-scale multimedia recommendation.
+I am an AI Research Scientist with experience in interdisciplinary biological sciences and high-impact applications for social good. I have a deep interest in graphs/networks. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
  
 ## Experience
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
-Worked with several Salesforce non-profit customers and external collaborators. Focused on projects relating to fairness and bias, particularly in structured environments such as graphs/networks.
+Worked with several Salesforce non-profit customers and external collaborators. Focused on projects relating to fairness and bias, particularly in AutoML platforms, and novel, structured environments such as graphs/networks.
 
 `Summer 2018`
 __Amazon__ Applied Scientist Intern (_Mentor: Alex Smola_)   
@@ -31,7 +30,7 @@ Developed textual and device models for novelty detection and attribution in the
 
 `Summer 2014`
 __Lawrence Livermore National Laboratory__ Research Intern (_Mentor: Brian Gallagher_)   
-Formulated graph inference problems over several scientific research domains. Part of the Cyber Defenders internship program.
+Formulated graph inference problems over several scientific research domains.
 
 `2013-2015`
 __University of Illinois at Chicago__ Research Fellow (_Mentor: Prof. Venkat Venkatakrishnan_)   
