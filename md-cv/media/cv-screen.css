@@ -56,10 +56,9 @@ body {
 	font: normal normal 400;
 	font-size: 80%;
 	line-height: 1.5em;
-	/* font-family: Verdana, sans-serif; */
-	font-family: "Open sans", sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+	font-family: 'Linux Libertine', serif;
+/*	margin-top: 1em;
+	margin-left: 0em;*/
 }
 
 p {
@@ -73,7 +72,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
 }
 
@@ -107,27 +105,25 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
 h1 {
-	color: #fd9544;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
+	font-weight: bold;
 	position: relative;
 	margin-top: 2em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
-  text-shadow: 1px 1px #fff,
-      					1px 2px #ccc;
 }
 
 h1+p {
 	/*subtitle*/
-	color: #1D49A0;
+	color: #9672C4;
 	font-style: italic;
+	font-weight: bold;
 	font-size: 110%;
 	line-height: 2em;
 	margin-top: 0.5em;
@@ -137,16 +133,17 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	/* color: #a00; */
-	color: #1D49A0;
-	margin-top: 2em;
+	color: #9672C4;
+	font-weight: bold;
+	margin-top: 1em;
 	position: relative;
-	top: 1.4em;
+/*	top: 1.4em;*/
 	text-align: right;
 	width: 15%;
 }
 
 h3 {
-	color: #F07415;
+	color: #444;
 	font-size: 1em;
 	line-height: 2em;
 	position: relative;
@@ -169,7 +166,6 @@ a:hover {
 	position: relative;
   margin-left: 25%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
 

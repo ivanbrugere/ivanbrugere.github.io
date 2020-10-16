@@ -56,7 +56,7 @@ body {
 	font: normal normal 400;
 	font-size: 9pt;
 	line-height: 1.35em;
-	font-family: "Open sans", sans-serif;
+	font-family: 'Linux Libertine', serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 28%;
-	/* margin-bottom: 0.2em; */
+	margin-bottom: 0.5em;
 	margin-right: 0;
 	width: 70%;
 }
@@ -72,7 +72,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 70%;
-	font-family: Menlo, monospace,s ans-serif;
 	color: #444;
 }
 
@@ -105,14 +104,13 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
 h1 {
-	color: #222;
 	text-align: left;
-	font-size: 2.2em;
+	font-weight: bold;
+	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	left: 28%;
@@ -120,6 +118,8 @@ h1 {
 
 h1+p {
 	/*subtitle*/
+	color: #9672C4;
+	font-weight: bold;
 	font-style: italic;
 	font-size: 110%;
 	line-height: 2em;
@@ -128,21 +128,21 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #a00;
+	font-size: 110%;
+	font-weight: bold;
+	color: #9672C4;
 	margin-top: 1em;
 	position: relative;
-	top: 1.5em;
+	/*top: 1.4em;*/
 	text-align: right;
-	width: 18%;
+	width: 15%;
 }
 
-h2+p {
+/*h2+p {
 	margin-top: 2.1em;
-}
+}*/
 
 h3 {
-	color: #F07415;
 	font-size: 1em;
 	line-height: 2em;
 	color: #444;
@@ -166,7 +166,6 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
 
@@ -175,8 +174,7 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
 }
 
 strong {

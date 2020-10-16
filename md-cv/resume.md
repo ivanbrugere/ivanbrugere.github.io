@@ -11,10 +11,9 @@ Research Scientist - AI For Good
 <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
 </div>
 ## Current Objective
-I am currently seeking AI research scientist positions in industry, available immediately, with no hard location constraints.  
+I am currently seeking applied research scientist positions in machine learning, available immediately, with no hard location constraints.  
   
-<br />
-I am an AI Research Scientist with experience in interdisciplinary biological sciences and high-impact applications for social good. I have a deep interest in graphs/networks. My most recent interests have been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
+I am an AI Research Scientist with experience in interdiscipliny biological sciences and spatiotemporal applications. My core interest is in machine learning on graphs/networks. My most recent work has been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
  
 ## Experience
 `2019-2020`
@@ -74,9 +73,11 @@ __University of Minnesota__ Computer Science B.S., Cultural Studies and Comparat
 
 ## Publications
 `2020`
-CEGE: Constrained Equitable Graph Editing via Reinforcement Learning (_in submission_)
+GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning (_in submission_)
 
 Privacy Shadow: Measuring Node Predictability and Privacy Over Time (_in submission_)
+
+Inferring Network Structure From Data (journal _in submission_)
 
 `2018`
 Network Structure Inference, A Survey: Motivations, Methods, and Applications   
@@ -124,61 +125,6 @@ Y. Chamber, A. Garg, V. Mithal, I. Brugere, M. Lau, V. Krishna, S. Boriah, M. St
 GOPHER: Global Observation of Planetary Health and Ecosystem Resources    
 A. Garg, V. Mithal, Y. Chamber, I. Brugere, V. Chaudhari, M. Dunham, V. Krishna, S. Krishnamurthy, S. Vangala, S. Boriah, M. Steinbach, V. Kumar, A. Cho, JD Stanley, T. Abraham, J. C. Castilla-Rubio, C. Potter, and S.A. Klooster (_IEEE Geoscience and Remote Sensing Symposium IGARSS_)
 
-<!-- ## Areas of expertise
-
-* Graph mining   
-* Graph neural networks   
-* Nonparametric statistics   
-* Interdisciplinary research   
-* Spatiotemporal mining   
-* Computational biology
- -->
-## Service
-
-### Tutorials
-
-`2018`
-Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers   
-I. Brugere, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (_KDD 2018_)
-
-### Workshops
-
-`2019`
-PhD Forum (_IEEE ICDM'19_)
-
-`2017`
-NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SDM'17_)
-
-`2016`
-Inferring Networks from Non-Network Data (_SIAM AM'16_)
-
-### Program Committees
-`2020`
-AAAI, ICDM, KDD, SDM
-
-`2019`
-AAAI, CIKM, ICDM, KDD, SDM
-
-`2018`
-KDD
-
-### Reviewer
-AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM   (_Conference_)    
-ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
-
-### Community
-ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br />
-Bloomberg Data For Good Exchange Program Committee   
-Google Lime campus ambassador   
-University of Washington-AccessSTEM volunteer   
-ACM SIGKDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
-
-### Teaching and Notable Courses
-Teaching Assistant: Computer Algorithms I (Senior-level)   
-Advanced Computational Biology and Bioinformatics Seminar    
-Advanced Data Mining Seminar     
-Field Course in Computational Ecology at Mpala Research Centre, Kenya
-
 ## Scholarships and Awards
 
 ### Scholarships
@@ -211,7 +157,53 @@ Fifty for the Future Award supported by the Illinois Technology Foundation
 `2014`
 ACM BCB Travel Award     
 ACM SIGKDD Broadening Participation in Data Mining Travel Award    
-ACM Tapia Celebration of Diversity in Computing, Travel Award          
+ACM Tapia Celebration of Diversity in Computing, Travel Award    
+
+## Service
+
+### Tutorials
+
+`2018`
+Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers   
+I. Brugere, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (_KDD 2018_)
+
+### Workshops
+
+`2019`
+PhD Forum (_IEEE ICDM'19_)
+
+`2017`
+NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SDM'17_)
+
+`2016`
+Inferring Networks from Non-Network Data (_SIAM AM'16_)
+
+### Program Committees
+`2020`
+AAAI, ICDM, KDD, SDM, WWW
+
+`2019`
+AAAI, CIKM, ICDM, KDD, SDM
+
+`2018`
+KDD
+
+### Reviewer
+AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM, WWW  (_Conference_)    
+ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
+
+### Community
+ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br />
+Bloomberg Data For Good Exchange Program Committee   
+Google Lime campus ambassador   
+University of Washington-AccessSTEM volunteer   
+ACM SIGKDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
+
+### Teaching and Notable Courses
+Teaching Assistant: Computer Algorithms I (Senior-level)   
+Advanced Computational Biology and Bioinformatics Seminar    
+Advanced Data Mining Seminar     
+Field Course in Computational Ecology at Mpala Research Centre, Kenya      
 
 ## Links
 * <i class="fa fa-envelope"></i> <a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a><br />
