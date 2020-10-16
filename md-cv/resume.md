@@ -11,7 +11,7 @@ Research Scientist - AI For Good
 <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
 </div>
 ## Current Objective
-I am currently seeking applied research scientist positions in machine learning, available immediately, with no hard location constraints.  
+I am currently seeking applied research scientist positions in machine learning, available immediately, open to relocating globally.  
   
 I am an AI Research Scientist with experience in interdiscipliny biological sciences and spatiotemporal applications. My core interest is in machine learning on graphs/networks. My most recent work has been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
  
@@ -53,7 +53,6 @@ __University of Minnesota__ Web Applications Developer (Department of Computer S
 
 `2002-2003`
 __University of Minnesota__ Web Applications Developer (College of Liberal Arts)   
-
 
 ## Education
 

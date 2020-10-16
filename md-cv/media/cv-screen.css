@@ -121,7 +121,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	color: #9672C4;
+	color: #500878;
 	font-style: italic;
 	font-weight: bold;
 	font-size: 110%;
@@ -133,7 +133,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	/* color: #a00; */
-	color: #9672C4;
+	color: #500878;
 	font-weight: bold;
 	margin-top: 1em;
 	position: relative;
