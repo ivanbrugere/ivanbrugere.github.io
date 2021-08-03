@@ -3,7 +3,7 @@ layout: cv
 title: Ivan Brugere's CV
 ---
 # Ivan Brugere
-Research Scientist - AI For Good
+AI Research Scientist
 
 <div id="webaddress">
 <a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a>
@@ -13,9 +13,13 @@ Research Scientist - AI For Good
 ## Current Objective
 I am an AI Research Scientist with experience in interdisciplinary biological sciences and spatiotemporal applications. My core interest is in machine learning on graphs/networks. My most recent work has been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
  
-I am currently seeking applied research scientist positions in machine learning, available immediately, open to relocating globally.  
+I am currently seeking applied research scientist positions in machine learning, available October 2021.  
   
 ## Experience
+`Mar. 2021-`
+__JPMorgan Chase & Co.__ AI Research Scientist <br/>
+Working on fair model compliance and explanation in AutoML environments. Time-evolving fairness in recommendation.
+
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
 Worked with several Salesforce non-profit customers and external collaborators. Focused on projects relating to fairness and bias, particularly in AutoML platforms, and novel, structured environments such as graphs/networks.
@@ -178,6 +182,9 @@ NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SD
 Inferring Networks from Non-Network Data (_SIAM AM'16_)
 
 ### Program Committees
+`2021`
+AAAI, KDD, SDM, WWW
+
 `2020`
 AAAI, ICDM, KDD, SDM, WWW
 
@@ -192,7 +199,7 @@ AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM, WWW  (_Conference_)
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
 ### Community
-ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br />
+ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee
 Bloomberg Data For Good Exchange Program Committee   
 Google Lime campus ambassador   
 University of Washington-AccessSTEM volunteer   
