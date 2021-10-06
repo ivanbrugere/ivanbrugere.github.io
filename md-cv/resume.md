@@ -13,11 +13,10 @@ AI Research Scientist
 ## Current Objective
 I am an AI Research Scientist with experience in interdisciplinary biological sciences and spatiotemporal applications. My core interest is in machine learning on graphs/networks. My most recent work has been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
 
-  
 ## Experience
 `Mar. 2021-`
 __JPMorgan Chase & Co.__ AI Research Scientist <br/>
-Working on fairness in graph-structured environments, and multi-sided marketplaces, and AutoML platforms.
+Working on ML fairness in graph-structured environments, multi-sided marketplaces, and AutoML platforms.
 
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
