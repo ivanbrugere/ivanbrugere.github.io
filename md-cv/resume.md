@@ -204,17 +204,14 @@ AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM, WWW  (_Conference_)
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
 ### Community
-ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee
+ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br/>
 Bloomberg Data For Good Exchange Program Committee   
 Google Lime campus ambassador   
 University of Washington-AccessSTEM volunteer   
 ACM SIGKDD Broadening Participation in Data Mining Coordinator, Mentoring Co-Chair  (2014, 2016, 2017)
 
-### Teaching and Notable Courses
-Teaching Assistant: Computer Algorithms I (Senior-level)   
-Advanced Computational Biology and Bioinformatics Seminar    
-Advanced Data Mining Seminar     
-Field Course in Computational Ecology at Mpala Research Centre, Kenya      
+### Teaching
+Teaching Assistant: Computer Algorithms I (Senior-level)
 
 ## Links
 * <i class="fa fa-envelope"></i> <a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a><br />
