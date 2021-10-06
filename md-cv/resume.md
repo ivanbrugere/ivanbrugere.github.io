@@ -12,13 +12,12 @@ AI Research Scientist
 </div>
 ## Current Objective
 I am an AI Research Scientist with experience in interdisciplinary biological sciences and spatiotemporal applications. My core interest is in machine learning on graphs/networks. My most recent work has been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
- 
-I am currently seeking applied research scientist positions in machine learning, available October 2021.  
+
   
 ## Experience
 `Mar. 2021-`
 __JPMorgan Chase & Co.__ AI Research Scientist <br/>
-Working on fair model compliance and explanation in AutoML environments. Time-evolving fairness in recommendation.
+Working on fairness in graph-structured environments, and multi-sided marketplaces, and AutoML platforms.
 
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
@@ -75,12 +74,19 @@ __The New School__ International Affairs M.A.
 __University of Minnesota__ Computer Science B.S., Cultural Studies and Comparative Literature B.A.
 
 ## Publications
+`2021`
+GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning
+G.S. Ramachandran, I. Brugere, L.R. Varshney, C. Xiong (_AAAI AIES 2021_)
+
+Evaluation of crowdsourced mortality prediction models as a framework for assessing AI in medicine
+T. Bergquist, T. Schaffter, Y. Yan, T. Yu, I. Brugere et al. (_Medrxiv preprint_)
+
+Continuously Benchmarked Crowdsourced Challenge for COVID-19 Outcome Prediction
+Y. Yan, T. Schaffter, T. Bergquist, T. Yu, J. Prosser, Z. Aydin, A. Jabeer, I. Brugere, et al. (_In Submission_)
+
 `2020`
-GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning (_in submission_)
-
-Privacy Shadow: Measuring Node Predictability and Privacy Over Time (_in submission_)
-
-Inferring Network Structure From Data (journal _in submission_)
+Network Structure Inference: Methodology and Applications<br/>
+I. Brugere (_PhD Thesis_)
 
 `2018`
 Network Structure Inference, A Survey: Motivations, Methods, and Applications   
