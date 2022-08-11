@@ -6,8 +6,7 @@ title: Ivan Brugere's CV
 AI Research Scientist
 
 <div id="webaddress">
-<a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a>
-
+<i class="fa fa-envelope"></i><a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a>
 <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
 </div>
 ## Current Objective
@@ -15,8 +14,8 @@ I am an AI Research Scientist with experience in interdisciplinary biological sc
 
 ## Experience
 `Mar. 2021-`
-__JPMorgan Chase & Co.__ AI Research Scientist <br/>
-Working on ML fairness in graph-structured environments, multi-sided marketplaces, and AutoML platforms.
+__J.P. Morgan Chase & Co.__ AI Research Scientist <br/>
+Working on ML fairness and interpretability for compliance. Working on efficient and fair model search, and fair tree-based training.
 
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
@@ -81,7 +80,7 @@ Evaluation of crowdsourced mortality prediction models as a framework for assess
 T. Bergquist, T. Schaffter, Y. Yan, T. Yu, I. Brugere et al. (_Medrxiv preprint_)
 
 Continuously Benchmarked Crowdsourced Challenge for COVID-19 Outcome Prediction
-Y. Yan, T. Schaffter, T. Bergquist, T. Yu, J. Prosser, Z. Aydin, A. Jabeer, I. Brugere, et al. (_In Submission_)
+Y. Yan, T. Schaffter, T. Bergquist, T. Yu, J. Prosser, Z. Aydin, A. Jabeer, I. Brugere, et al. (_JAMA Network Open_)
 
 `2020`
 Network Structure Inference: Methodology and Applications<br/>
@@ -187,6 +186,9 @@ NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SD
 Inferring Networks from Non-Network Data (_SIAM AM'16_)
 
 ### Program Committees
+`2022`
+AAAI, FAccT, KDD, SDM, WWW
+
 `2021`
 AAAI, KDD, SDM, WWW
 
@@ -218,4 +220,4 @@ Teaching Assistant: Computer Algorithms I (Senior-level)
 * <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/ivanbrugere/">LinkedIn</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=JGlGUcsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-8913-1733">ORCiD</a>
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-2953-3746">ORCiD</a>
