@@ -10,12 +10,12 @@ AI Research Scientist
 <i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
 </div>
 ## Current Objective
-I am an AI Research Scientist with experience in interdisciplinary biological sciences and spatiotemporal applications. My core interest is in machine learning on graphs/networks. My most recent work has been in fairness and bias, particularly within complex, graph-structured data. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
+I am an AI Research Scientist focusing on fairness, robustness, and graph-based learning. I am seeking research roles in industry focusing on high-impact fair and robust applications. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
 
 ## Experience
 `Mar. 2021-`
 __J.P. Morgan Chase & Co.__ AI Research Scientist <br/>
-Working on ML fairness and interpretability for compliance. Working on efficient and fair model search, and fair tree-based training.
+Working on ML fairness and interpretability for compliance. Working on efficient and fair model search, robust and fair tree-based ensembles.
 
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
@@ -23,7 +23,7 @@ Worked with several Salesforce non-profit customers and external collaborators. 
 
 `Summer 2018`
 __Amazon__ Applied Scientist Intern (_Mentor: Alex Smola_)   
-Designed deep learning graph APIs on MXNet. Focused on structured computational models on graphs, and scalability. Part of the Amazon Web Services AI Platforms team. 
+Designed deep learning graph APIs on MXNet for scalable training as part of the DGL project. Part of the Amazon Web Services AI Platforms team. 
 
 `Summer 2015`
 __Microsoft__ Data Science Intern (_Mentor: Marcello Hasegawa_)   
@@ -72,14 +72,41 @@ __The New School__ International Affairs M.A.
 __University of Minnesota__ Computer Science B.S., Cultural Studies and Comparative Literature B.A.
 
 ## Publications
+
+`2023`
+
+Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions<br/>
+L. Tsepenekas, I. Brugere, F. Lecue, D. Magazzeni (_NeurIPS 2023_)
+
+Bounding the Accuracy Loss for Graphical Model Based Synthetic Data Generation in Privacy-Preserving Machine Learning <br/>
+Y. Zhou, I. Brugere, D. Dachman-Soled, D. Dervovic, M. Liang, A. Polychroniadou, M. Wu, (_in submission_)
+
+Balancing Fairness and Accuracy in Data-Restricted Binary Classification<br/>
+Z. McBride Lazri, D. Dervovic, A. Polychroniadou, I. Brugere, D. Dachman-Soled, M. Wu (_in submission_)
+
+Hyper-parameter Tuning for Fair Classification without Sensitive Attribute Access<br/>
+A.K. Veldanda, I. Brugere, S. Dutta, A. Mishler, S. Garg (_in submission_)
+
+Canonical Data Transformation for Achieving Inter- and Within-group Fairness<br/>
+Z. McBride Lazri, I. Brugere, X. Tian, D. Dachman-Soled, A. Polychroniadou, D. Dervovic, M. Wu (_in submission_)
+
+
+`2022`
+
+Fairness via In-Processing in the Over-parameterized Regime: A Cautionary Tale with MinDiff Loss<br/>
+A.K. Veldanda, I. Brugere, J. Chen, S. Dutta, A. Mishler, S. Garg (_Transactions on Machine Learning Research_)
+
 `2021`
-GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning
+Parameterized Explanations for Investor/Company Matching<br/>
+S. Kaur, I. Brugere, A. Stefanucci, A. Nourbakhsh, S. Shah, M. Veloso (_ICAIF'21_)
+
+GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning<br/>
 G.S. Ramachandran, I. Brugere, L.R. Varshney, C. Xiong (_AAAI AIES 2021_)
 
-Evaluation of crowdsourced mortality prediction models as a framework for assessing AI in medicine
-T. Bergquist, T. Schaffter, Y. Yan, T. Yu, I. Brugere et al. (_Medrxiv preprint_)
+Evaluation of crowdsourced mortality prediction models as a framework for assessing artificial intelligence in medicine<br/>
+T. Bergquist, T. Schaffter, Y. Yan, T. Yu, I. Brugere et al. (_Journal of the American Medical Informatics Association_)
 
-Continuously Benchmarked Crowdsourced Challenge for COVID-19 Outcome Prediction
+A continuously benchmarked and crowdsourced challenge for rapid development and evaluation of models to predict COVID-19 diagnosis and hospitalization<br/>
 Y. Yan, T. Schaffter, T. Bergquist, T. Yu, J. Prosser, Z. Aydin, A. Jabeer, I. Brugere, et al. (_JAMA Network Open_)
 
 `2020`
@@ -176,6 +203,9 @@ I. Brugere, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (_KDD 2018_)
 
 ### Workshops
 
+`2023`
+NLP and Network Analysis in Financial Applications (_ACM ICAIF'23_)
+
 `2019`
 PhD Forum (_IEEE ICDM'19_)
 
@@ -185,24 +215,10 @@ NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (_SIAM SD
 `2016`
 Inferring Networks from Non-Network Data (_SIAM AM'16_)
 
-### Program Committees
-`2022`
-AAAI, FAccT, KDD, SDM, WWW
+### PC Member/Reviewer
 
-`2021`
-AAAI, KDD, SDM, WWW
-
-`2020`
-AAAI, ICDM, KDD, SDM, WWW
-
-`2019`
-AAAI, CIKM, ICDM, KDD, SDM
-
-`2018`
-KDD
-
-### Reviewer
-AAAI, CIKM, ICDM, IJCAI, KDD, PAKDD, SDM, WWW  (_Conference_)    
+`2018-Present`
+AAAI, CIKM, FAccT, ICDM, IJCAI, KDD, PAKDD, SDM, WWW  (_Conference_)    
 ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
 
 ### Community
