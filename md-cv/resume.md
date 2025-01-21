@@ -3,19 +3,23 @@ layout: cv
 title: Ivan Brugere's CV
 ---
 # Ivan Brugere
-AI Research Scientist
-
+Lead AI Research Scientist
 <div id="webaddress">
 <i class="fa fa-envelope"></i><a href="mailto:ivan@ivanbrugere.com">ivan@ivanbrugere.com</a>
-<i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a>
+<i class="fa fa-github"></i> <a href="http://github.com/ivanbrugere">ivanbrugere</a><br/>
+Chicago, IL
 </div>
 ## Current Objective
-I am an AI Research Scientist focusing on fairness, robustness, and graph-based learning. I am seeking research roles in industry focusing on high-impact fair and robust applications. My PhD (defended 2020) focused on data science methodologies for inferring and validating graphs derived from underlying data, with applications in social networks, mobile location privacy, and large-scale multimedia recommendation.
+I am a Lead AI Research Scientist with 5 years of experience focusing on robustness, fairness and privacy. I am seeking AI scientist roles focusing on Trustworthy AI, with opportunities to collaborate internally and externally, and mentor junior scientists and students. Prior, my PhD (defended 2020) focused on graph topology inference in machine learning, with applications in biological sciences. 
 
 ## Experience
-`Mar. 2021-`
+
+`Jan. 2025-`
+__J.P. Morgan Chase & Co.__ Lead AI Research Scientist  - Trustworthy AI <br/>
+Working on AI robustness and fairness: explainable and private LLM methods, fair agent-based learning, robust and fair tree-based ensembles. Published in ICML, NeurIPS, TMLR, 12 patents filed.
+
+`2021-2024`
 __J.P. Morgan Chase & Co.__ AI Research Scientist <br/>
-Working on ML fairness and interpretability for compliance. Working on efficient and fair model search, robust and fair tree-based ensembles.
 
 `2019-2020`
 __Salesforce Research__ Research Scientist - AI For Good   
@@ -73,26 +77,36 @@ __University of Minnesota__ Computer Science B.S., Cultural Studies and Comparat
 
 ## Publications
 
-`2023`
+`2024`
+RashomonGB: Analyzing the Rashomon Effect and Mitigating Predictive Multiplicity in Gradient Boosting<br/>
+H. Hsu, I. Brugere, S. Sharma, F. Lecue, C.F. Chen (_NeurIPS 2024_)
 
-Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions<br/>
-L. Tsepenekas, I. Brugere, F. Lecue, D. Magazzeni (_NeurIPS 2023_)
+Interpretable Table Question Answering via Plans of Atomic Table Transformations<br/>
+G. Nguyen, I. Brugere, S. Sharma, S. Kariyappa, A.T. Nguyen, F. Lecue (_in submission_) 
 
-Bounding the Accuracy Loss for Graphical Model Based Synthetic Data Generation in Privacy-Preserving Machine Learning <br/>
-Y. Zhou, I. Brugere, D. Dachman-Soled, D. Dervovic, M. Liang, A. Polychroniadou, M. Wu, (_in submission_)
+Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models<br/>
+W. Tang, H. Mao, D. Dervovic, I. Brugere, S. Mishra, Y. Xie, J. Tang (_in submission_)
+
+Investigating the Temporal Association of Biomedical Research on Small Business Funding: A Bibliometric and Data Analytic Approach<br/>
+R. Khanmohammadi, S. Kaur, C.H. Smiley, T. Alhanai, I. Brugere, A. Nourbakhsh, M.M. Ghassemi (_IEEE TCSS_)
+
+A Canonical Data Transformation for Achieving Inter- and Within-group Fairness<br/>
+Z. McBride Lazri, I. Brugere, X. Tian, D. Dachman-Soled, A. Polychroniadou, D. Dervovic, M. Wu (_IEEE TIFS_)
 
 Balancing Fairness and Accuracy in Data-Restricted Binary Classification<br/>
 Z. McBride Lazri, D. Dervovic, A. Polychroniadou, I. Brugere, D. Dachman-Soled, M. Wu (_in submission_)
 
+`2023`
+Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions<br/>
+L. Tsepenekas, I. Brugere, F. Lecue, D. Magazzeni (_NeurIPS 2023_)
+
+Bounding the Accuracy Loss for Graphical Model Based Synthetic Data Generation in Privacy-Preserving Machine Learning <br/>
+Y. Zhou, I. Brugere, D. Dachman-Soled, D. Dervovic, M. Liang, A. Polychroniadou, M. Wu, (_ICML 2023_)
+
 Hyper-parameter Tuning for Fair Classification without Sensitive Attribute Access<br/>
-A.K. Veldanda, I. Brugere, S. Dutta, A. Mishler, S. Garg (_in submission_)
-
-Canonical Data Transformation for Achieving Inter- and Within-group Fairness<br/>
-Z. McBride Lazri, I. Brugere, X. Tian, D. Dachman-Soled, A. Polychroniadou, D. Dervovic, M. Wu (_in submission_)
-
+A.K. Veldanda, I. Brugere, S. Dutta, A. Mishler, S. Garg (_Transactions on Machine Learning Research_)
 
 `2022`
-
 Fairness via In-Processing in the Over-parameterized Regime: A Cautionary Tale with MinDiff Loss<br/>
 A.K. Veldanda, I. Brugere, J. Chen, S. Dutta, A. Mishler, S. Garg (_Transactions on Machine Learning Research_)
 
@@ -218,8 +232,8 @@ Inferring Networks from Non-Network Data (_SIAM AM'16_)
 ### PC Member/Reviewer
 
 `2018-Present`
-AAAI, CIKM, FAccT, ICDM, IJCAI, KDD, PAKDD, SDM, WWW  (_Conference_)    
-ACM CSUR, IMS AOAS, IEEE TKDE, KAIS (_Journal_)
+AAAI, CIKM, FAccT, ICDM, ICLR, IJCAI, KDD, PAKDD, SDM, TheWebConf, WSDM  (_Conference_)    
+ACM CSUR, IEEE TKDE, ACM TKDD, KAIS (_Journal_)
 
 ### Community
 ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee<br/>
