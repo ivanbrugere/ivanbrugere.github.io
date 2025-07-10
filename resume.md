@@ -54,7 +54,7 @@ Time series change detection and anomaly detection on large remote sensing datas
 **University of Minnesota** - Web Applications Developer (Department of Computer Science)
 
 ### 2002-2003
-*University of Minnesota** - Web Applications Developer (College of Liberal Arts)
+**University of Minnesota** - Web Applications Developer (College of Liberal Arts)
 
 Education
 ---------
@@ -63,14 +63,14 @@ Education
 Thesis: Network Structure Inference: Methodology and Applications.
 
 ### 2009-2012
-University of Minnesota - Computer Science M.S. (Advisor: Prof. Vipin Kumar)  
+**University of Minnesota** - Computer Science M.S. (Advisor: Prof. Vipin Kumar)  
 Thesis: Approximate Search on Massive Spatiotemporal Datasets.
 
 ### 2007-2009
-The New School - International Affairs M.A.
+**The New School** - International Affairs M.A.
 
 ### 2002-2007
-University of Minnesota - Computer Science B.S., Cultural Studies and Comparative Literature B.A.
+**University of Minnesota** - Computer Science B.S., Cultural Studies and Comparative Literature B.A.
 
 Publications
 -----------
