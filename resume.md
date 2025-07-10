@@ -1,5 +1,6 @@
-# Ivan Brugere  
-Lead AI Research Scientist  
+Ivan Brugere
+============
+Lead AI Research Scientist - JPMorganChase   
 ivan@ivanbrugere.com  
 github.com/ivanbrugere  
 Chicago, IL
@@ -55,7 +56,8 @@ Time series change detection and anomaly detection on large remote sensing datas
 ### 2002-2003
 *University of Minnesota** - Web Applications Developer (College of Liberal Arts)
 
-## Education
+Education
+---------
 ### 2012-2020
 **University of Illinois at Chicago** - Computer Science PhD (Advisor: Prof. Tanya Berger-Wolf)  
 Thesis: Network Structure Inference: Methodology and Applications.
@@ -70,7 +72,8 @@ The New School - International Affairs M.A.
 ### 2002-2007
 University of Minnesota - Computer Science B.S., Cultural Studies and Comparative Literature B.A.
 
-## Publications
+Publications
+-----------
 scholar.google.com/citations?user=JGlGUcsAAAAJ
 
 ### 2025
@@ -179,7 +182,8 @@ Y. Chamber, A. Garg, V. Mithal, **I. Brugere**, M. Lau, V. Krishna, S. Boriah, M
 GOPHER: Global Observation of Planetary Health and Ecosystem Resources   
 A. Garg, V. Mithal, Y. Chamber, **I. Brugere**, V. Chaudhari, M. Dunham, V. Krishna, S. Krishnamurthy, S. Vangala, S. Boriah, M. Steinbach, V. Kumar, A. Cho, JD Stanley, T. Abraham, J. C. Castilla-Rubio, C. Potter, and S.A. Klooster (IEEE IGARSS'11: Geoscience and Remote Sensing Symposium)
 
-## Scholarships
+Scholarships
+------------
 ### 2014-2016 
 NSF IGERT Electronic Security and Privacy Fellowship
 
@@ -189,7 +193,8 @@ University of Illinois at Chicago, Chancellor's Graduate Research Fellowship
 ### 2014
 Google Lime Scholarship
 
-## Awards
+Awards
+---------
 ### 2017
 IEEE ICDM Travel Award
 SIAM SDM Travel Award
@@ -211,12 +216,14 @@ ACM BCB Travel Award
 ACM SIGKDD Broadening Participation in Data Mining Travel Award
 ACM Tapia Celebration of Diversity in Computing, Travel Award
 
-## Organization: Tutorials
+Tutorials
+----------
 ### 2018
 Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers   
 **I. Brugere**, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (KDD 2018)
 
-## Organization: Workshops
+Workshop Organization
+---------------------
 ### 2023
 NLP and Network Analysis in Financial Applications (ACM ICAIF'23)
 
@@ -229,12 +236,14 @@ NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (SIAM SDM
 ### 2016
 Inferring Networks from Non-Network Data (SIAM AM'16)
 
-## PC Member/Reviewer
+PC Member/Reviewer
+------------------
 ### 2018-Present
 - Conferences: AAAI, CIKM, FAccT, ICDM, ICLR, IJCAI, KDD, NeurIPS, PAKDD, SDM, TheWebConf, WSDM   
 - Journals: ACM CSUR, IEEE TKDE, ACM TKDD, KAIS
 
-# Community
+Community
+---------
 - ACM Tapia Celebration of Diversity in Computing 2020 Plenary Speaker   
 - ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee   
 - Bloomberg Data For Good Exchange Program Committee
@@ -242,10 +251,12 @@ Inferring Networks from Non-Network Data (SIAM AM'16)
 - University of Washington-AccessSTEM volunteer
 - ACM SIGKDD Broadening Participation in Data Mining Coordinator, - Mentoring Co-Chair  (2014, 2016, 2017)
 
-## Teaching
+Teaching
+--------
 Teaching Assistant: Computer Algorithms I (Senior-level), University of Illinois at Chicago 2017.
 
-## Links
+Links
+-----
 * ivan@ivanbrugere.com
 * github.com/ivanbrugere
 * linkedin.com/in/ivanbrugere
