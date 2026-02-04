@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>resume.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="ivan-brugere">Ivan Brugere</h1>
+<p>Lead AI Research Scientist - JPMorganChase<br>
+ivan@ivanbrugere.com<br>
+github.com/ivanbrugere<br>
+Chicago, IL</p>
+<h2 id="current-objective">Current Objective</h2>
+<p>I am a Lead AI Research Scientist with 5 years of experience focusing on robustness, fairness and privacy. I am seeking AI scientist roles focusing on Trustworthy AI, with opportunities to collaborate internally and externally, and mentor junior scientists and students. Prior, my PhD (defended 2020) focused on graph topology inference in machine learning, with applications in biological sciences.</p>
+<h2 id="experience">Experience</h2>
+<h3 id="jan-2025">Jan. 2025-</h3>
+<p><strong>J.P. Morgan Chase &amp; Co.</strong> - Lead AI Research Scientist - Trustworthy AI<br>
+Working on AI robustness and fairness: explainable and private LLM methods, fair agent-based learning, robust and fair tree-based ensembles. Published in ICML, NeurIPS, TMLR, EMNLP, 12 patents filed.</p>
+<h3 id="2021-2024">2021-2024</h3>
+<p><strong>J.P. Morgan Chase &amp; Co.</strong> - AI Research Scientist</p>
+<h3 id="2019-2020">2019-2020</h3>
+<p><strong>Salesforce</strong> - Research Scientist - AI For Good<br>
+Worked with several Salesforce non-profit customers and external collaborators. Focused on projects relating to fairness and bias, particularly in AutoML platforms, and novel, structured environments such as graphs/networks.</p>
+<h3 id="june-october-2018">June-October 2018</h3>
+<p><strong>Amazon</strong> - Applied Scientist Intern (Mentor: Alex Smola)<br>
+Designed deep learning graph APIs on MXNet for scalable training as part of the DGL project. Part of the Amazon Web Services AI Platforms team.</p>
+<h3 id="may-august-2015">May-August 2015</h3>
+<p><strong>Microsoft</strong> - Data Science Intern (Mentor: Marcello Hasegawa)<br>
+Developed textual and device models for novelty detection and attribution in the Windows 10 user population.</p>
+<h3 id="may-august-2014">May-August 2014</h3>
+<p><strong>Lawrence Livermore National Laboratory</strong> - Research Intern (Mentor: Brian Gallagher)<br>
+Formulated graph inference problems over several scientific research domains.</p>
+<h3 id="2013-2015">2013-2015</h3>
+<p><strong>University of Illinois at Chicago</strong> - Research Fellow (Mentor: Prof. Venkat Venkatakrishnan)<br>
+Graph-based models for attribute inference and privacy preservation on real mobile device datasets.</p>
+<h3 id="may-august-2013">May-August 2013</h3>
+<p><strong>Technicolor</strong> - Research Intern (Mentor: Fernando Silveira)<br>
+Rule discovery for biometric sensor time series data for actionable analysis of film audiences. Developed methods to discover and visualize dynamic audience communities.</p>
+<h3 id="2012-2017">2012-2017</h3>
+<p><strong>University of Illinois at Chicago</strong> - Research Assistant (Advisor: Prof. Tanya Berger-Wolf)<br>
+Model selection for graph structure inference and prediction. Focusing on ecology and populations biology domains.</p>
+<h3 id="2010-2012">2010-2012</h3>
+<p><strong>University of Minnesota</strong> - Research Assistant (Advisor: Prof. Vipin Kumar)<br>
+Time series change detection and anomaly detection on large remote sensing datasets. Focused on incorporating spatial aspects for change significance testing, and domain-driven information retrieval.</p>
+<h3 id="2004-2007">2004-2007</h3>
+<p><strong>University of Minnesota</strong> - Web Applications Developer (Department of Computer Science)</p>
+<h3 id="2002-2003">2002-2003</h3>
+<p><strong>University of Minnesota</strong> - Web Applications Developer (College of Liberal Arts)</p>
+<h2 id="education">Education</h2>
+<h3 id="2012-2020">2012-2020</h3>
+<p><strong>University of Illinois at Chicago</strong> - Computer Science PhD (Advisor: Prof. Tanya Berger-Wolf)<br>
+Thesis: Network Structure Inference: Methodology and Applications.</p>
+<h3 id="2009-2012">2009-2012</h3>
+<p><strong>University of Minnesota</strong> - Computer Science M.S. (Advisor: Prof. Vipin Kumar)<br>
+Thesis: Approximate Search on Massive Spatiotemporal Datasets.</p>
+<h3 id="2007-2009">2007-2009</h3>
+<p><strong>The New School</strong> - International Affairs M.A.</p>
+<h3 id="2002-2007">2002-2007</h3>
+<p><strong>University of Minnesota</strong> - Computer Science B.S., Cultural Studies and Comparative Literature B.A.</p>
+<h2 id="publications">Publications</h2>
+<p>scholar.google.com/citations?user=JGlGUcsAAAAJ</p>
+<h3 id="2025">2025</h3>
+<p>Calibrating LLM Confidence by Probing Perturbed Representation Stability<br>
+R. Khanmohammadi, E. Miahi, M. Mardikoraem, S. Kaur, <strong>I. Brugere</strong>, C. Smiley, K.S. Thind, M.M. Ghassemi (EMNLP 2025)</p>
+<p>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models<br>
+W. Tang, H. Mao, D. Dervovic, <strong>I. Brugere</strong>, S. Mishra, Y. Xie, J. Tang (NeurIPS 2025)</p>
+<p>The Unseen Threat: Residual Knowledge in Machine Unlearning under Perturbed Samples<br>
+H. Hsu, P. Niroula, Z. He, <strong>I. Brugere</strong>, F. Lecue, C.F. Chen (NeurIPS 2025)</p>
+<p>Interpretable LLM-based Table Question Answering
+G. Nguyen, <strong>I. Brugere</strong>, S. Sharma, S. Kariyappa, A.T. Nguyen, F. Lecue (TMLR June 2025)</p>
+<p>Balancing Fairness and Accuracy in Data-Restricted Binary Classification<br>
+Z. McBride Lazri, D. Dervovic, A. Polychroniadou, <strong>I. Brugere</strong>, D. Dachman-Soled, M. Wu (ACM TKDD August 2025)</p>
+<p>MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems<br>
+Z.M. Lazri, A. Nakra, <strong>I. Brugere</strong>, D. Dervovic, A. Polychroniadou, F. Huang, D. Dachman-Soled, M. Wu (in submission)</p>
+<p>How Reliable are Confidence Estimators for Large Reasoning Models? A Systematic Benchmark on High-Stakes Domains
+R. Khanmohammadi, E. Miahi, S. Kaur, C. Smiley, <strong>I. Brugere</strong>, K.S. Thind, M.M. Ghassemi (in submission)</p>
+<h3 id="2024">2024</h3>
+<p>RashomonGB: Analyzing the Rashomon Effect and Mitigating Predictive Multiplicity in Gradient Boosting<br>
+H. Hsu, <strong>I. Brugere</strong>, S. Sharma, F. Lecue, C.F. Chen (NeurIPS 2024)</p>
+<p>Investigating the Temporal Association of Biomedical Research on Small Business Funding: A Bibliometric and Data Analytic Approach<br>
+R. Khanmohammadi, S. Kaur, C.H. Smiley, T. Alhanai, <strong>I. Brugere</strong>, A. Nourbakhsh, M.M. Ghassemi (IEEE TCSS)</p>
+<p>A Canonical Data Transformation for Achieving Inter- and Within-group Fairness<br>
+Z. McBride Lazri, <strong>I. Brugere</strong>, X. Tian, D. Dachman-Soled, A. Polychroniadou, D. Dervovic, M. Wu (IEEE TIFS)</p>
+<h3 id="2023">2023</h3>
+<p>Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions<br>
+L. Tsepenekas, <strong>I. Brugere</strong>, F. Lecue, D. Magazzeni (NeurIPS 2023)</p>
+<p>Bounding the Accuracy Loss for Graphical Model Based Synthetic Data Generation in Privacy-Preserving Machine Learning<br>
+Y. Zhou, <strong>I. Brugere</strong>, D. Dachman-Soled, D. Dervovic, M. Liang, A. Polychroniadou, M. Wu, (ICML 2023)</p>
+<p>Hyper-parameter Tuning for Fair Classification without Sensitive Attribute Access<br>
+A.K. Veldanda, <strong>I. Brugere</strong>, S. Dutta, A. Mishler, S. Garg (TMLR)</p>
+<h3 id="2022">2022</h3>
+<p>Fairness via In-Processing in the Over-parameterized Regime: A Cautionary Tale with MinDiff Loss<br>
+A.K. Veldanda, <strong>I. Brugere</strong>, J. Chen, S. Dutta, A. Mishler, S. Garg (TMLR)</p>
+<h3 id="2021">2021</h3>
+<p>Parameterized Explanations for Investor/Company Matching<br>
+S. Kaur, <strong>I. Brugere</strong>, A. Stefanucci, A. Nourbakhsh, S. Shah, M. Veloso (ICAIF'21 Workshop on Explainable AI in Finance)</p>
+<p>GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning<br>
+G.S. Ramachandran, <strong>I. Brugere</strong>, L.R. Varshney, C. Xiong (AAAI AIES 2021)</p>
+<p>Evaluation of crowdsourced mortality prediction models as a framework for assessing artificial intelligence in medicine<br>
+T. Bergquist, T. Schaffter, Y. Yan, T. Yu, <strong>I. Brugere</strong> et al. (Journal of the American Medical Informatics Association)</p>
+<p>A continuously benchmarked and crowdsourced challenge for rapid development and evaluation of models to predict COVID-19 diagnosis and hospitalization<br>
+Y. Yan, T. Schaffter, T. Bergquist, T. Yu, J. Prosser, Z. Aydin, A. Jabeer, <strong>I. Brugere</strong>, et al. (JAMA Network Open)</p>
+<h3 id="2020">2020</h3>
+<p>Network Structure Inference: Methodology and Applications<br>
+<strong>I. Brugere</strong> (Ph.D. Thesis)</p>
+<h3 id="2018">2018</h3>
+<p>Network Structure Inference, A Survey: Motivations, Methods, and Applications<br>
+<strong>I. Brugere</strong>, B. Gallagher, T. Y. Berger-Wolf (ACM Computing Surveys)</p>
+<p>Network model selection with task-focused minimum description length<br>
+<strong>I. Brugere</strong>, T.Y. Berger-Wolf (WWW'18: BigNet Workshop on Learning Representations for Big Networks)</p>
+<p>Coordination Event Detection and Initiator Identification in Time Series Data<br>
+C. Amornbunchornvej, <strong>I. Brugere</strong>, A. Strandburg-Peshkin, D. Farine, M.C. Crofoot, T.Y. Berger-Wolf (ACM TKDD)</p>
+<h3 id="2017">2017</h3>
+<p>Evaluating Social Networks Using Task-Focused Network Inference<br>
+<strong>I. Brugere</strong>, C. Kanich, T.Y. Berger-Wolf (KDD'17: Workshop on Mining and Learning in Graphs)</p>
+<p>A General Framework for Task-Oriented Network Inference<br>
+<strong>I. Brugere</strong>, C. Kanich, T.Y. Berger-Wolf (SIAM SDM'17: Workshop on Inferring Networks from Non-Network Data)</p>
+<h3 id="2016">2016</h3>
+<p>Both Nearest Neighbours and Long-term Affiliates Predict Individual Locations During Collective Movement in Wild Baboons<br>
+D. Farine, A. Strandburg-Peshkin, T.Y. Berger-Wolf, B. Ziebart, <strong>I. Brugere</strong>, J. Li, M. Crofoot (Nature Scientific Reports)</p>
+<h3 id="2015">2015</h3>
+<p>Social Information Improves Location Prediction in the Wild<br>
+J. Li, <strong>I. Brugere</strong>, B. Ziebart, T. Y. Berger-Wolf, M. Crofoot, D. Farine (AAAI'15: Workshop on Trajectory-based Behaviour Analytics)</p>
+<h3 id="2014">2014</h3>
+<p>Modeling and Analysis of Spatiotemporal Social Networks
+<strong>I. Brugere</strong>, V. M.V. Gunturi, and S. Shekhar (Encyclopedia of Social Network Analysis and Mining)</p>
+<h3 id="2012">2012</h3>
+<p>Approximate Search on Massive Spatiotemporal Datasets<br>
+<strong>I. Brugere</strong>, K. Steinhaeuser, S. Boriah, and V. Kumar (IEEE ICDM'12: Workshop on Spatial and Spatiotemporal Data Mining)</p>
+<h2 id="2011">2011</h2>
+<p>Incorporating Natural Variation into Time Series-Based Land Cover Change Identification<br>
+V. Mithal, A. Garg, <strong>I. Brugere</strong>, S. Boriah, V. Kumar, M. Steinbach, C. Potter, and S. Klooster (CIDU'11: NASA Conference on Intelligent Data Understanding)</p>
+<p>A Study of Time Series Noise Reduction Techniques in the Context of Land Cover Change Detection<br>
+X. Chen, V. Mithal, S.R. Vangala, <strong>I. Brugere</strong>, S. Boriah, and V. Kumar (CIDU'11: NASA Conference on Intelligent Data Understanding)</p>
+<p>A Novel Time Series Based Approach to Detect Gradual Vegetation Changes in Forests<br>
+Y. Chamber, A. Garg, V. Mithal, <strong>I. Brugere</strong>, M. Lau, V. Krishna, S. Boriah, M. Steinbach, V. Kumar, C. Potter, and S. Klooster (CIDU'11: NASA Conference on Intelligent Data Understanding)</p>
+<p>GOPHER: Global Observation of Planetary Health and Ecosystem Resources<br>
+A. Garg, V. Mithal, Y. Chamber, <strong>I. Brugere</strong>, V. Chaudhari, M. Dunham, V. Krishna, S. Krishnamurthy, S. Vangala, S. Boriah, M. Steinbach, V. Kumar, A. Cho, JD Stanley, T. Abraham, J. C. Castilla-Rubio, C. Potter, and S.A. Klooster (IEEE IGARSS'11: Geoscience and Remote Sensing Symposium)</p>
+<h2 id="scholarships">Scholarships</h2>
+<h3 id="2014-2016">2014-2016</h3>
+<p>NSF IGERT Electronic Security and Privacy Fellowship</p>
+<h3 id="2014-2016">2014-2016</h3>
+<p>University of Illinois at Chicago, Chancellor's Graduate Research Fellowship</p>
+<h3 id="2014">2014</h3>
+<p>Google Lime Scholarship</p>
+<h2 id="awards">Awards</h2>
+<h3 id="2017">2017</h3>
+<p>IEEE ICDM Travel Award
+SIAM SDM Travel Award</p>
+<h3 id="2016">2016</h3>
+<p>ACM Tapia Celebration of Diversity in Computing, Travel Award
+ACM SIGKDD Broadening Participation in Data Mining Travel Award
+ACM WSDM Travel Award</p>
+<h3 id="2015">2015</h3>
+<p>IEEE ICDM Travel Award
+ACM Ubicomp Broadening Participation Travel Award
+ACM SIGKDD Ram Kumar Memorial Travel Award
+SIAM CSE Travel Award supported by the Sustainable Horizons Institute
+Fifty for the Future Award supported by the Illinois Technology Foundation</p>
+<h3 id="2014">2014</h3>
+<p>ACM BCB Travel Award
+ACM SIGKDD Broadening Participation in Data Mining Travel Award
+ACM Tapia Celebration of Diversity in Computing, Travel Award</p>
+<h2 id="tutorials">Tutorials</h2>
+<h3 id="2018">2018</h3>
+<p>Modeling Data with Networks + Network Embedding: Problems, Methodologies and Frontiers<br>
+<strong>I. Brugere</strong>, B. Perozzi, P. Cui, W. Zhu, J. Pei, T.Y. Berger-Wolf (KDD 2018)</p>
+<h2 id="workshop-organization">Workshop Organization</h2>
+<h3 id="2023">2023</h3>
+<p>NLP and Network Analysis in Financial Applications (ACM ICAIF'23)</p>
+<h3 id="2019">2019</h3>
+<p>PhD Forum (IEEE ICDM'19)</p>
+<h3 id="2017">2017</h3>
+<p>NetInf'17: First Workshop on Inferring Networks from Non-Network Data  (SIAM SDM'17)</p>
+<h3 id="2016">2016</h3>
+<p>Inferring Networks from Non-Network Data (SIAM AM'16)</p>
+<h2 id="pc-memberreviewer">PC Member/Reviewer</h2>
+<h3 id="2018-present">2018-Present</h3>
+<ul>
+<li>Conferences: AAAI, CIKM, FAccT, ICDM, ICLR, IJCAI, KDD, NeurIPS, PAKDD, SDM, TheWebConf, WSDM</li>
+<li>Journals: ACM CSUR, IEEE TKDE, ACM TKDD, KAIS</li>
+</ul>
+<h2 id="community">Community</h2>
+<ul>
+<li>ACM Tapia Celebration of Diversity in Computing 2020 Plenary Speaker</li>
+<li>ACM Tapia Celebration of Diversity in Computing 2020 Accessibility Committee</li>
+<li>Bloomberg Data For Good Exchange Program Committee</li>
+<li>Google Lime campus ambassador</li>
+<li>University of Washington-AccessSTEM volunteer</li>
+<li>ACM SIGKDD Broadening Participation in Data Mining Coordinator, - Mentoring Co-Chair  (2014, 2016, 2017)</li>
+</ul>
+<h2 id="teaching">Teaching</h2>
+<p>Teaching Assistant: Computer Algorithms I (Senior-level), University of Illinois at Chicago 2017.</p>
+<h2 id="links">Links</h2>
+<ul>
+<li>ivan@ivanbrugere.com</li>
+<li>github.com/ivanbrugere</li>
+<li>linkedin.com/in/ivanbrugere</li>
+<li>scholar.google.com/citations?user=JGlGUcsAAAAJ</li>
+<li>orcid.org/0000-0002-2953-3746</li>
+</ul>
+
+</body>
+</html>
