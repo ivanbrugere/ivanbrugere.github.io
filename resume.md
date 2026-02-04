@@ -26,8 +26,8 @@ Working on AI robustness and fairness: explainable and robust LLM methods, fair 
 - Co-led research initiative on perturbation robustness tree-based models, leading to 2 NeurIPS publications and 2 patent filings.
 - Designed and deployed a model perturbation and auditing system for fairness, targeting firm-wide consumer-facing models (patent filed).  
 - Developed novel Bayesian model search frameworks for fair mortgage and auto loan pricing (patent filed).
-- Led research of two summer AI research interns, yielding 1 NeurIPS, 1 TMLR publication, and 1 successful full-time scientist conversion
-- Co-led external research collaborations with university faculty at NYU, MSU, UMD.
+- Led research of two summer AI research interns, yielding 1 NeurIPS, 1 TMLR publication, and 1 successful full-time scientist conversion.
+- Co-led external research collaborations with university faculty at NYU, MSU, UMD, Harvard.
  
 **Salesforce**
 *Jan. 2019-March 2020*
