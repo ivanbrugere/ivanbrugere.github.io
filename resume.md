@@ -108,46 +108,46 @@ Computer Science B.S., Cultural Studies and Comparative Literature B.A.
 
 Selected Patents
 ----------------
-**System and method for generating constrained loan pricing**
-*Automated loan pricing system incorporating regulatory constraints and fairness requirements while optimizing financial objectives.*
-**I. Brugere**, M. Hosking, S. Sharma, F. Lecue, Y. Tan, J. Stettler, H. Zhao, P. Glover, D. Kapadia, G. Ciraulo, D. Bollum, D. Magazzeni, L.C. Liang
+**System and method for generating constrained loan pricing**  
+*Automated loan pricing system incorporating regulatory constraints and fairness requirements while optimizing financial objectives.*  
+**I. Brugere**, M. Hosking, S. Sharma, F. Lecue, Y. Tan, J. Stettler, H. Zhao, P. Glover, D. Kapadia, G. Ciraulo, D. Bollum, D. Magazzeni, L.C. Liang  
 US Patent App. 18/397,698, 2025
 
-**System and method for grounding outputs in tabular generative artificial intelligence**
-*Method ensuring LLM-generated table analysis outputs are verifiable and traceable to source data for auditability in regulated applications.*
+**System and method for grounding outputs in tabular generative artificial intelligence**  
+*Method ensuring LLM-generated table analysis outputs are verifiable and traceable to source data for auditability in regulated applications.*  
 **I. Brugere**, S. Kariyappa, S. Sharma, F. Lecue, G. Nguyen  
 US Patent 12,436,935, 2025
 
-**System and method for graph-based resource allocation using neural networks**
-*Neural network approach for optimizing resource distribution across graph-structured systems, enabling equitable allocation in networked environments.*
-G.S. Ramachandran, **I. Brugere**, L. Varshney, C. Xiong
+**System and method for graph-based resource allocation using neural networks**  
+*Neural network approach for optimizing resource distribution across graph-structured systems, enabling equitable allocation in networked environments.*  
+G.S. Ramachandran, **I. Brugere**, L. Varshney, C. Xiong  
 US Patent 12,165,053, 2024
 
-**Method and system for improving model fairness by using explainability techniques**
-*Framework leveraging model explainability methods to identify and mitigate fairness issues by analyzing feature contributions across demographic groups.*
-**I. Brugere**, D. Magazzeni, N. Marchesotti,  D. Heike, F. Zhao, E. Wang, H. Shu, M. Gabriel, M. Veloso, C. Tilli, S. Dutta, B. Mallik, Ade Onigbanjo
+**Method and system for improving model fairness by using explainability techniques**  
+*Framework leveraging model explainability methods to identify and mitigate fairness issues by analyzing feature contributions across demographic groups.*  
+**I. Brugere**, D. Magazzeni, N. Marchesotti,  D. Heike, F. Zhao, E. Wang, H. Shu, M. Gabriel, M. Veloso, C. Tilli, S. Dutta, B. Mallik, A. Onigbanjo  
 US Patent App. 17/968,220, 2024
 
 Selected Publications
 ---------------------
-**Calibrating LLM Confidence by Probing Perturbed Representation Stability**
-*Novel method applying adversarial perturbations to LLM hidden states to assess confidence via internal stability, reducing calibration error by ~55% across multiple models.*
+**Calibrating LLM Confidence by Probing Perturbed Representation Stability**  
+*Novel method applying adversarial perturbations to LLM hidden states to assess confidence via internal stability, reducing calibration error by ~55% across multiple models.*  
 R. Khanmohammadi, E. Miahi, M. Mardikoraem, S. Kaur, **I. Brugere**, C. Smiley, K.S. Thind, M.M. Ghassemi (EMNLP 2025)
 
 **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**  
-*Introduces UniAug, a universal graph augmentor using discrete diffusion models pre-trained on thousands of graphs to enable cross-domain data scaling and adaptive structure enhancement for downstream tasks.*
+*Introduces UniAug, a universal graph augmentor using discrete diffusion models pre-trained on thousands of graphs to enable cross-domain data scaling and adaptive structure enhancement for downstream tasks.*  
 W. Tang, H. Mao, D. Dervovic, **I. Brugere**, S. Mishra, Y. Xie, J. Tang (NeurIPS 2025)
 
-**Interpretable LLM-based Table Question Answering**
-*Introduces Plan-of-SQLs (POS) method decomposing table queries into transparent SQL steps for interpretable reasoning, achieving competitive accuracy with 25x fewer LLM calls.*
+**Interpretable LLM-based Table Question Answering**  
+*Introduces Plan-of-SQLs (POS) method decomposing table queries into transparent SQL steps for interpretable reasoning, achieving competitive accuracy with 25x fewer LLM calls.*  
 G. Nguyen, **I. Brugere**, S. Sharma, S. Kariyappa, A.T. Nguyen, F. Lecue (TMLR June 2025)
 
-**RashomonGB: Analyzing the Rashomon Effect and Mitigating Predictive Multiplicity in Gradient Boosting**
-*First systematic analysis of the Rashomon effect in gradient boosting with novel techniques to explore model sets and reduce predictive multiplicity for fairer model selection.*
+**RashomonGB: Analyzing the Rashomon Effect and Mitigating Predictive Multiplicity in Gradient Boosting**  
+*First systematic analysis of the Rashomon effect in gradient boosting with novel techniques to explore model sets and reduce predictive multiplicity for fairer model selection.*  
 H. Hsu, **I. Brugere**, S. Sharma, F. Lecue, C.F. Chen (NeurIPS 2024)
 
-**Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions**
-*Efficient sampling framework learning cross-group similarity functions with limited expert feedback, enabling fair comparisons of data from different demographic distributions.*
+**Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions**  
+*Efficient sampling framework learning cross-group similarity functions with limited expert feedback, enabling fair comparisons of data from different demographic distributions.*  
 L. Tsepenekas, **I. Brugere**, F. Lecue, D. Magazzeni (NeurIPS 2023)
 
 Additional Publications (2015-2026)
@@ -155,13 +155,13 @@ Additional Publications (2015-2026)
 Full list available at: scholar.google.com/citations?user=JGlGUcsAAAAJ
 
 #### Recent Works 2022-2026
-**Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms**
+**Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms**  
 Y. Zhou, M. Liang, **I. Brugere**, D. Dervovic, Y. Guo, A. Polychroniadou, M. Wu, D. Dachman-Soled (in submission)
 
-**MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems**
+**MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems**  
 Z.M. Lazri, A. Nakra, **I. Brugere**, D. Dervovic, A. Polychroniadou, F. Huang, D. Dachman-Soled, M. Wu (in submission)
 
-**How Reliable are Confidence Estimators for Large Reasoning Models? A Systematic Benchmark on High-Stakes Domains**
+**How Reliable are Confidence Estimators for Large Reasoning Models? A Systematic Benchmark on High-Stakes Domains**  
 R. Khanmohammadi, E. Miahi, S. Kaur, C. Smiley, **I. Brugere**, K.S. Thind, M.M. Ghassemi (EACL 2026)
 
 **The Unseen Threat: Residual Knowledge in Machine Unlearning under Perturbed Samples**  
@@ -176,72 +176,48 @@ R. Khanmohammadi, S. Kaur, C.H. Smiley, T. Alhanai, **I. Brugere**, A. Nourbakhs
 **A Canonical Data Transformation for Achieving Inter- and Within-group Fairness**  
 Z. McBride Lazri, **I. Brugere**, X. Tian, D. Dachman-Soled, A. Polychroniadou, D. Dervovic, M. Wu (IEEE TIFS)
 
-**Bounding the Accuracy Loss for Graphical Model Based Synthetic Data Generation in Privacy-Preserving Machine Learning**
+**Bounding the Accuracy Loss for Graphical Model Based Synthetic Data Generation in Privacy-Preserving Machine Learning**  
 Y. Zhou, **I. Brugere**, D. Dachman-Soled, D. Dervovic, M. Liang, A. Polychroniadou, M. Wu, (ICML 2023)
 
-**Hyper-parameter Tuning for Fair Classification without Sensitive Attribute Access**
+**Hyper-parameter Tuning for Fair Classification without Sensitive Attribute Access**  
 A.K. Veldanda, **I. Brugere**, S. Dutta, A. Mishler, S. Garg (TMLR)
 
-**Fairness via In-Processing in the Over-parameterized Regime: A Cautionary Tale with MinDiff Loss**
+**Fairness via In-Processing in the Over-parameterized Regime: A Cautionary Tale with MinDiff Loss**  
 A.K. Veldanda, **I. Brugere**, J. Chen, S. Dutta, A. Mishler, S. Garg (TMLR)
 
 #### Earlier Works 2015-2021
-**Parameterized Explanations for Investor/Company Matching**
+**Parameterized Explanations for Investor/Company Matching**  
 S. Kaur, **I. Brugere**, A. Stefanucci, A. Nourbakhsh, S. Shah, M. Veloso (ICAIF'21 Workshop on Explainable AI in Finance)
 
-**GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning**
+**GAEA: Graph Augmentation for Equitable Access via Reinforcement Learning**  
 G.S. Ramachandran, **I. Brugere**, L.R. Varshney, C. Xiong (AAAI AIES 2021)
 
-**Evaluation of crowdsourced mortality prediction models as a framework for assessing artificial intelligence in medicine**
+**Evaluation of crowdsourced mortality prediction models as a framework for assessing artificial intelligence in medicine**  
 T. Bergquist, T. Schaffter, Y. Yan, T. Yu, **I. Brugere** et al. (Journal of the American Medical Informatics Association)
 
-**A continuously benchmarked and crowdsourced challenge for rapid development and evaluation of models to predict COVID-19 diagnosis and hospitalization**
+**A continuously benchmarked and crowdsourced challenge for rapid development and evaluation of models to predict COVID-19 diagnosis and hospitalization**  
 Y. Yan, T. Schaffter, T. Bergquist, T. Yu, J. Prosser, Z. Aydin, A. Jabeer, **I. Brugere**, et al. (JAMA Network Open)
 
-**Network Structure Inference: Methodology and Applications**
+**Network Structure Inference: Methodology and Applications**  
 **I. Brugere** (Ph.D. Thesis)
 
-**Network Structure Inference, A Survey: Motivations, Methods, and Applications**
+**Network Structure Inference, A Survey: Motivations, Methods, and Applications**  
 **I. Brugere**, B. Gallagher, T. Y. Berger-Wolf (ACM Computing Surveys)
 
 **Network model selection with task-focused minimum description length**
-**I. Brugere**, T.Y. Berger-Wolf (WWW'18: BigNet Workshop on Learning Representations for Big Networks)
+**I. Brugere**, T.Y. Berger-Wolf (WWW'18: BigNet Workshop on Learning Representations for Big Networks)  
 
-**Coordination Event Detection and Initiator Identification in Time Series Data**
+**Coordination Event Detection and Initiator Identification in Time Series Data**  
 C. Amornbunchornvej, **I. Brugere**, A. Strandburg-Peshkin, D. Farine, M.C. Crofoot, T.Y. Berger-Wolf (ACM TKDD)
 
-**Evaluating Social Networks Using Task-Focused Network Inference**
+**Evaluating Social Networks Using Task-Focused Network Inference**  
 **I. Brugere**, C. Kanich, T.Y. Berger-Wolf (KDD'17: Workshop on Mining and Learning in Graphs)
 
-<!-- **A General Framework for Task-Oriented Network Inference**
-**I. Brugere**, C. Kanich, T.Y. Berger-Wolf (SIAM SDM'17: Workshop on Inferring Networks from Non-Network Data) -->
-
-**Both Nearest Neighbours and Long-term Affiliates Predict Individual Locations During Collective Movement in Wild Baboons**
+**Both Nearest Neighbours and Long-term Affiliates Predict Individual Locations During Collective Movement in Wild Baboons**  
 D. Farine, A. Strandburg-Peshkin, T.Y. Berger-Wolf, B. Ziebart, **I. Brugere**, J. Li, M. Crofoot (Nature Scientific Reports)
 
-**Social Information Improves Location Prediction in the Wild**
+**Social Information Improves Location Prediction in the Wild**  
 J. Li, **I. Brugere**, B. Ziebart, T. Y. Berger-Wolf, M. Crofoot, D. Farine (AAAI'15: Workshop on Trajectory-based Behaviour Analytics)
-
-<!-- #### 2014
-Modeling and Analysis of Spatiotemporal Social Networks
-**I. Brugere**, V. M.V. Gunturi, and S. Shekhar (Encyclopedia of Social Network Analysis and Mining)
-
-#### 2012
-Approximate Search on Massive Spatiotemporal Datasets   
-**I. Brugere**, K. Steinhaeuser, S. Boriah, and V. Kumar (IEEE ICDM'12: Workshop on Spatial and Spatiotemporal Data Mining)
-
-#### 2011
-Incorporating Natural Variation into Time Series-Based Land Cover Change Identification   
-V. Mithal, A. Garg, **I. Brugere**, S. Boriah, V. Kumar, M. Steinbach, C. Potter, and S. Klooster (CIDU'11: NASA Conference on Intelligent Data Understanding)
-
-A Study of Time Series Noise Reduction Techniques in the Context of Land Cover Change Detection   
-X. Chen, V. Mithal, S.R. Vangala, **I. Brugere**, S. Boriah, and V. Kumar (CIDU'11: NASA Conference on Intelligent Data Understanding)
-
-A Novel Time Series Based Approach to Detect Gradual Vegetation Changes in Forests   
-Y. Chamber, A. Garg, V. Mithal, **I. Brugere**, M. Lau, V. Krishna, S. Boriah, M. Steinbach, V. Kumar, C. Potter, and S. Klooster (CIDU'11: NASA Conference on Intelligent Data Understanding)
-
-GOPHER: Global Observation of Planetary Health and Ecosystem Resources   
-A. Garg, V. Mithal, Y. Chamber, **I. Brugere**, V. Chaudhari, M. Dunham, V. Krishna, S. Krishnamurthy, S. Vangala, S. Boriah, M. Steinbach, V. Kumar, A. Cho, JD Stanley, T. Abraham, J. C. Castilla-Rubio, C. Potter, and S.A. Klooster (IEEE IGARSS'11: Geoscience and Remote Sensing Symposium) -->
 
 PhD Scholarships and Awards
 ------------
